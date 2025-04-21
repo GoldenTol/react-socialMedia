@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# 환경 설정 파일
+.env
+
+# 로그 파일
+npm-debug.log*
+
+# 빌드 결과물
+dist/
